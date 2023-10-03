@@ -1,7 +1,7 @@
 ---
-title: "Assignment Template"
-author: "Dr Thomas Robinson and Dr Dan de Kadt"
-date: "AT 2023"
+title: "Assignment 1"
+author: "202320860"
+date: "September 08 2023"
 output: html_document
 ---
 
@@ -49,6 +49,18 @@ In specific instances, however, you may be directed to report your code in-line 
 
 print("This code chunk is visible in this section.")
 ```
+
+### Exercise 1
+
+```{r ex1}
+# For loop to print numbers
+for (i in 1:10) {
+  print(i)
+}
+
+```
+
+This prints the numbers 1 to 10 each on a separate line.
 
 ## Appendix: All code in this assignment
 
